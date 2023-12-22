@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engenieer
 ------------------
 
-Hi my real Name is Alessio and i'm 17. Right now i'm attending an computer science and telecomunication school.
+Hi my name is Alessio and i'm 17. Right now i'm attending an computer science and telecomunication school.
 
 * 🌍  I'm based in Italy
 * 🧠  I'm learning JavaScript
