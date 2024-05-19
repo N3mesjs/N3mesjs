@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alessio
 ===============================================================================================================================
 
-Software Engenieer
+Web Developer
 ------------------
 
-Hi my name is Alessio and i'm 17. Right now i'm attending an computer science and telecomunication school.
+Hi my name is Alessio and i'm 18. Right now i'm attending an computer science and telecomunication school.
 
 * 🌍  I'm based in Italy
 * 🧠  I'm learning JavaScript
