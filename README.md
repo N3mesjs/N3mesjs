@@ -7,7 +7,7 @@ Web Developer
 Hi my name is Alessio and i'm 18. Right now i'm attending an computer science and telecomunication school.
 
 * 🌍  I'm based in Italy
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning React
 * ⚡  Im using a full-stack Framework called: "Next.js"
 
 <a href="https://www.x.com/N3mesjs" target="_blank" rel="noreferrer"><img
