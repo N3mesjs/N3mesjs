@@ -7,8 +7,8 @@ Full-Stack Developer
 Hi my name is Alessio and i'm 18. Right now i'm attending an computer science and telecomunication school.
 
 * 🌍  I'm based in Italy
-* 🧠  I'm learning React
-* ⚡  Im using a full-stack Framework called: "Next.js"
+* 🧠  I'm learning C#
+* ⚡  Im using a full-stack Framework called: "Next.js", for my web projects
 
 <a href="https://www.x.com/N3mesjs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/N3mesjs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
