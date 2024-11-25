@@ -5,7 +5,7 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in Italy
-* 🧠  I'm learning C# and node.js
+* 🧠  I'm learning C# and Node.js
 * ⚡  I know very well how to use a framework for javascript called "Next.js"
 
 <a href="https://www.github.com/N3mesjs" target="_blank" rel="noreferrer"><img
